@@ -6,3 +6,4 @@
 * commit on the remote repository
 * pull command added to the file
 * with master branch
+* again a commit from the master branch
