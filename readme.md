@@ -4,4 +4,6 @@
 * git add
 * git commit
 * commit on the remote repository
+* pull command added to the file
+
 
